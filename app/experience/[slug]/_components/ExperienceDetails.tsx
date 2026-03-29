@@ -1,3 +1,4 @@
+'use client';
 import TransitionLink from '@/components/TransitionLink';
 import { IExperience } from '@/types';
 import { useGSAP } from '@gsap/react';
