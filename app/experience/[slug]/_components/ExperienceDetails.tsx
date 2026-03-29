@@ -1,5 +1,3 @@
-'use client';
-import ArrowAnimation from '@/components/ArrowAnimation';
 import TransitionLink from '@/components/TransitionLink';
 import { IExperience } from '@/types';
 import { useGSAP } from '@gsap/react';
