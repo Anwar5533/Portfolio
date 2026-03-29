@@ -64,7 +64,7 @@ export const PROJECTS: IProject[] = [
         - Implemented Redux for global state management.<br/>
         - Utilized Tailwind CSS for pixel-perfect responsive layouts.<br/>
         - Simulated heavy API calls safely using RTK Query/Axios.`,
-        techStack: ['React.js', 'Redux', 'Tailwind CSS', 'Vite'],
+        techStack: ['React.js', 'Redux ToolKit', 'Tailwind CSS', 'Vite', 'HTML5', 'CSS3', 'JavaScript'],
         thumbnail: '/projects/swiggy.png',
         longThumbnail: '/projects/swiggy.png',
         images: ['/projects/swiggy.png'],
@@ -79,7 +79,7 @@ export const PROJECTS: IProject[] = [
         - Built end-to-end with React and TypeScript for strong typing.<br/>
         - Handled context-api based persistent local storage.<br/>
         - Tested rigorously using React Testing Library to achieve massive test coverage.`,
-        techStack: ['React.js', 'TypeScript', 'Context API', 'CSS'],
+        techStack: ['React.js', 'TypeScript', 'Context API', 'CSS', 'Tailwind CSS', 'HTML5', 'CSS3', 'JavaScript'],
         thumbnail: '/projects/taskify.png',
         longThumbnail: '/projects/taskify.png',
         images: ['/projects/taskify.png'],
@@ -95,7 +95,7 @@ export const PROJECTS: IProject[] = [
         - Built dynamic, interactive user interfaces with React.<br/>
         - Crafted a pristine mobile-first design leveraging Tailwind CSS.<br/>
         - Architected state mapping to process and deploy food orders smoothly.`,
-        techStack: ['React.js', 'Tailwind CSS', 'JavaScript'],
+        techStack: ['React.js', 'Tailwind CSS', 'JavaScript', 'HTML5', 'CSS3'],
         thumbnail: '/projects/food-app.png',
         longThumbnail: '/projects/food-app.png',
         images: ['/projects/food-app.png'],
@@ -111,7 +111,7 @@ export const PROJECTS: IProject[] = [
         - Constructed the interactive UI components natively in React.<br/>
         - Handled complex JS math array and matrix algorithms for compounding values.<br/>
         - Styled the application interface using modern CSS.`,
-        techStack: ['React.js', 'JavaScript', 'HTML'],
+        techStack: ['React.js', 'JavaScript', 'HTML5', 'CSS3'],
         thumbnail: '/projects/investment.png',
         longThumbnail: '/projects/investment.png',
         images: ['/projects/investment.png'],
